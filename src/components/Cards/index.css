@@ -1,0 +1,42 @@
+.cards-container{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(24, 24, 77);
+    height:10vh;
+    width:116%;
+    padding-left:47px;
+    
+
+}
+.cards{
+    background-color: white;
+    border-radius:15px;
+    border-width:0px;
+    height:200px;
+    width:190px;
+    padding:10px;
+    margin:10px;
+    
+    box-shadow: 0px 0px 10px 1px black;
+    margin-bottom:30x;
+}
+
+.saved-image{
+    width:100px;
+    height:100px;
+
+}
+.card-heading{
+    color:black;
+    font-family: 'Roboto';
+    font-size:18px;
+    padding:10px;
+
+}
+.card-text{
+    color:black;
+    font-family: 'Roboto';
+    font-size:12px;
+    padding:10px;
+    
+}

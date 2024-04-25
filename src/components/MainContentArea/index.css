@@ -1,0 +1,177 @@
+.main-content-bg-container{
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    height:100vh;
+ 
+ }
+ .main-content-first-container{
+     margin-left:70px;
+     margin-right:10px;
+     margin-top:200px;
+     background-color: white;
+     border-radius: 10px;
+     height:500px;
+     width:1020px;
+     display:flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     box-shadow: 0px 0px 10px 2px grey;;
+     margin-bottom:10px;
+    
+
+ 
+ }
+ .recent-release-container{
+     
+     background-color: white;
+     border-radius: 10px;
+     height:700px;
+     width:290px;
+     margin-top:200px;
+     margin-left:5px;
+     box-shadow: 0px 0px 10px 2px grey;
+     margin-bottom:10px;
+ }
+ .carousel-cards-container{
+     display:flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+     margin:10px;
+ }
+ .main-content-cards-in-carsouel{
+     height:50vh;
+     background-color: white;
+     margin:10px;
+     border-radius:10px;
+     box-shadow: 0px 0px 10px 2px lightgrey;
+ }
+ .main-content-card-image{
+     width:200px;
+     height:200px;
+     border-radius:10px;
+     margin:0px;
+ 
+ 
+ }
+ .card1-image{
+     width:300px;
+     height:200px;
+     border-radius:10px;
+     margin:0px;
+ 
+ }
+ .main-content-card-heading{
+     font-family:'Roboto';
+     font-size:20px;
+     color:black;
+     padding-top:5px;
+     padding-bottom:10px;
+     padding:5px;
+ }
+ .main-content-card-text{
+     font-family:'Roboto';
+     font-size:10px;
+     color:grey;
+     padding:5px;
+ 
+ }
+ .button{
+     height:40px;
+     width:80px;
+     color:#ffffff;
+     font-size:10px;
+    background-color: rgb(24,24,77);
+    border-radius:10px;
+    margin-top:10px;
+ }
+ .release-top-container{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+     margin:10px;
+ 
+ }
+ .release-heading{
+     color:hwb(203 0% 0%);
+     font-size:18px;
+     font-family:'Roboto';
+     padding:10px;
+     font-weight: 500;
+ }
+ .selected-values{
+     width:100px;
+     height:30px;
+     
+ }
+ .feb-container{
+     display: flex;
+     flex-direction: row;
+ }
+ .dot-and-line-container{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+ }
+ .dot-button{
+     background-color: lightgrey;
+     border-radius: 50%;
+     height:13px;
+     width:13px;
+     border-width:0px;
+     margin:10px;
+ }
+ .straight-line{
+     height:250px;
+     width:0px;
+     border-width:0px;
+     background-color: lightgrey;
+     margin:12px;
+  
+     border-radius:50px;
+ }
+ .side-feb-container{
+     display:flex;
+     flex-direction: column;
+     margin-left:6px;
+ }
+ .industrial-heading{
+     font-size:18px;
+     font-family:'Roboto';
+     padding:10px;
+     color:black;
+ 
+ }
+ .industrial-text{
+     font-size:12px;
+     font-family:'Roboto';
+     padding:10px;
+     color:grey;
+ }
+ .dots{
+     display:flex;
+     flex-direction: row;
+     justify-content: center;
+     margin:10px;
+     
+ }
+ .dot-button{
+     background-color: lightgray;
+     border-radius:50%;
+     height:10px;
+     width:10px;
+     
+ 
+ }
+ .selected-dot-button{
+     background-color: gray;
+     border-radius:50%;
+     height:10px;
+     width:10px;
+     margin-top: 11px;
+     
+ }
+
